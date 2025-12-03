@@ -21,7 +21,7 @@ const kamrul_hasan = {
       frameWork: ["ReactJs"],
       css: ["Tailwind", "bootstrap"],
     },
-      database: ["MongoDB", "Firebase"],
+      database: ["MongoDB", "PostgreSQL"],
   },
 };
 ```
