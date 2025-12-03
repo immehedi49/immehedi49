@@ -12,7 +12,7 @@
 ### aboutMe.js
 
 ```javascript
-const kamrul_hasan = {
+const Mehedi_Hasan = {
   pronouns: "he" | "him",
   code: ["Javascript", "HTML", "CSS"],
   askMeAbout: ["web_dev", "tech", "music", "sports", "gaming"],
